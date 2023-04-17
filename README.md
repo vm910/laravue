@@ -1,3 +1,14 @@
+# A project for learning SSR with Laravel and Vue with Inertia and some Docker (mostly laravel)
+
+## Covered topics
+
+- User auth and registration
+- Using docker images
+- Laravel routes, controllers, migrations, policies and other stuff
+- Inertia stuff (usePage useForm etc)
+- Useful 3rd party packages like Ziggy and Lodash
+- How to set up and configure this sort of App (create laravel project, create vite project with vue-plugin and tie it all together with inertia etc etc)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
