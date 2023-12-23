@@ -1,4 +1,4 @@
-# A project for learning SSR with Laravel and Vue with Inertia and some Docker (mostly laravel)
+# A realtor app for practicing Laravel + Vue 3 with Inertia.
 
 ## Covered topics
 
